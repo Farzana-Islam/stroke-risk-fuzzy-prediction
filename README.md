@@ -24,7 +24,6 @@ accuracy alone is insufficient for clinical adoption.
 - 32 fuzzy if-then rules across 15 clinical risk factors
 - MATLAB Fuzzy Logic Toolbox (`Stroke.fis`)
 - Clustering and evaluation scripts in `/src`
-## Repository Structure
 
 ## Publications
 
