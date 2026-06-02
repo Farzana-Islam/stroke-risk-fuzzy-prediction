@@ -40,8 +40,9 @@ Farzana Islam
 [LinkedIn](https://linkedin.com/in/farzanaa-islam) · [Portfolio](https://farzana-islam.github.io/portal)
 
 
-##Citation
+## Citation
 Please cite as follows
+
 @inproceedings{islam2017potential,
   title={Potential risk factor analysis and risk prediction system for stroke using fuzzy logic},
   author={Islam, Farzana and Shoilee, Sarah Binta Alam and Shams, Mithi and Rahman, Rashedur M},
