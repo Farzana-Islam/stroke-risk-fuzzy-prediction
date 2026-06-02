@@ -43,6 +43,7 @@ Farzana Islam
 ## Citation
 Please cite as follows
 
+```bibtex
 @inproceedings{islam2017potential,
   title={Potential risk factor analysis and risk prediction system for stroke using fuzzy logic},
   author={Islam, Farzana and Shoilee, Sarah Binta Alam and Shams, Mithi and Rahman, Rashedur M},
